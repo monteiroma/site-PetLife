@@ -1,9 +1,6 @@
 # site-PetLife
-Site desenvolvido no curso Onebit JS e CSS
 
-Site PetLife desenvolvido no curso Start - HTML, CSS e JavaScript da OneBit Code
-
-Treinamento de criação de landingpage
+Site PetLife desenvolvido no curso Start - HTML, CSS e JavaScript da OneBit Code e treinamento de criação de landing page
 
 Tecnologias:
 
